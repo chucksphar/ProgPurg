@@ -10,4 +10,4 @@ unpublished at this date): Escaping Programmer Purgatory: Programming 102.
 This is not an open-source project, so please don't edit my files. But I do invite anyone to read and comment
 by email (sphars1@yahoo.com). This is a work in progress that I intend to publish.
 
-Chuck Sphar
+Chuck Sphar, co-author of C# 2005 For Dummies and later editions, author of two older titles now out of print
